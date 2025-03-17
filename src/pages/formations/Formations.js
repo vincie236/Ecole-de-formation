@@ -1,9 +1,9 @@
 import React from "react";
 import { FaChartLine, FaLaptopCode, FaShoppingCart } from "react-icons/fa";
 import { Link, Outlet } from "react-router-dom";
-import CommerceImage from "../../assets/img/formations/commerce.jpg";
-import GestionImage from "../../assets/img/formations/gestion.jpg";
-import InformatiqueImage from "../../assets/img/formations/informatique.jpg";
+import CommerceImage from "../../assets/images/formations/commerce.jpg";
+import GestionImage from "../../assets/images/formations/gestion.jpg";
+import InformatiqueImage from "../../assets/images/formations/informatique.jpg";
 import BackgroundVideo from "../../assets/videos/formation.mp4";
 
 function Formations() {

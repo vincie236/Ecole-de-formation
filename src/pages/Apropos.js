@@ -3,9 +3,9 @@ import { Link } from "react-router-dom"; // Importez Link pour la navigation
 import BackgroundVideo from "../assets/videos/Accueil2.mp4";
 
 // Importation des images
-import temoignageAlice from "../assets/img/formations/temoignage-alice.jpg";
-import temoignageBob from "../assets/img/formations/temoignage-bob.jpg";
-import temoignageJean from "../assets/img/formations/temoignage-jean.jpg";
+import temoignageAlice from "../assets/images/formations/temoignage-alice.jpg";
+import temoignageBob from "../assets/images/formations/temoignage-bob.jpg";
+import temoignageJean from "../assets/images/formations/temoignage-jean.jpg";
 
 const APropos = () => {
   return (

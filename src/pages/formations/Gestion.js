@@ -1,9 +1,9 @@
 import React from "react";
 import { FaChartLine, FaUsers } from "react-icons/fa";
 import { Link } from "react-router-dom";
-import GestionImage from "../../assets/img/formations/gestion.jpg";
-import TemoignageJean from "../../assets/img/formations/temoignage-jean.jpg";
-import TemoignageMarie from "../../assets/img/formations/temoignage-marie.jpg";
+import GestionImage from "../../assets/images/formations/gestion.jpg";
+import TemoignageJean from "../../assets/images/formations/temoignage-jean.jpg";
+import TemoignageMarie from "../../assets/images/formations/temoignage-marie.jpg";
 
 function Gestion() {
   return (

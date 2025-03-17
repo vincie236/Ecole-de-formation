@@ -120,7 +120,7 @@ function Accueil() {
         <Slider {...settings}>
           <div className="grid place-items-center">
             <img
-              src="../assets/img/sport.jpg"
+              src="/images/sport.jpg"
               alt="Journée Sportive"
               className="object-cover w-full h-64 mb-4"
             />
@@ -132,7 +132,7 @@ function Accueil() {
           </div>
           <div className="grid place-items-center">
             <img
-              src="../assets/img/women_day.jpg"
+              src="/images/women_day.jpg"
               alt="Célébration du 8 mars"
               className="object-cover w-full h-64 mb-4"
             />
@@ -144,7 +144,7 @@ function Accueil() {
           </div>
           <div className="grid place-items-center">
             <img
-              src="../assets/img/tech.jpg"
+              src="/images/tech.jpg"
               alt="La femme au cœur de la technologie"
               className="object-cover w-full h-64 mb-4"
             />
@@ -158,7 +158,7 @@ function Accueil() {
           </div>
           <div className="grid place-items-center">
             <img
-              src="../assets/img/hackaton.jpg"
+              src="/images/hackaton.jpg"
               alt="Hackathon étudiant"
               className="object-cover w-full h-64 mb-4"
             />
@@ -172,7 +172,7 @@ function Accueil() {
           </div>
           <div className="grid place-items-center">
             <img
-              src="../assets/img/conference.jpg"
+              src="/images/conference.jpg"
               alt="Conférence sur l'entrepreneuriat"
               className="object-cover w-full h-64 mb-4"
             />

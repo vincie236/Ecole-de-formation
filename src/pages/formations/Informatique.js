@@ -2,12 +2,12 @@ import React from "react";
 import { FaCode, FaNetworkWired, FaRobot, FaShieldAlt } from "react-icons/fa";
 import { Link } from "react-router-dom";
 // filepath: /Users/user/Documents/GitHub/Projets-react/site-ecole-de-formation/src/pages/formations/Informatique.js
-import AiImage from "../../assets/img/formations/ai.jpg";
-import CybersecurityImage from "../../assets/img/formations/cybersecurity.jpg";
-import DevWebImage from "../../assets/img/formations/dev-web.jpg";
-import ReseauImage from "../../assets/img/formations/reseau.jpg";
-import TemoignageAlice from "../../assets/img/formations/temoignage-alice.jpg";
-import TemoignageBob from "../../assets/img/formations/temoignage-bob.jpg";
+import AiImage from "../../assets/images/formations/ai.jpg";
+import CybersecurityImage from "../../assets/images/formations/cybersecurity.jpg";
+import DevWebImage from "../../assets/images/formations/dev-web.jpg";
+import ReseauImage from "../../assets/images/formations/reseau.jpg";
+import TemoignageAlice from "../../assets/images/formations/temoignage-alice.jpg";
+import TemoignageBob from "../../assets/images/formations/temoignage-bob.jpg";
 
 function Informatique() {
   return (

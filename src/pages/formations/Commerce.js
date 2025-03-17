@@ -1,9 +1,9 @@
 import React from "react";
 import { FaChartLine, FaShoppingCart, FaUsers } from "react-icons/fa";
 import { Link } from "react-router-dom";
-import CommerceImage from "../../assets/img/formations/commerce.jpg";
-import TemoignageJean from "../../assets/img/formations/temoignage-jean.jpg";
-import TemoignageMarie from "../../assets/img/formations/temoignage-marie.jpg";
+import CommerceImage from "../../assets/images/formations/commerce.jpg";
+import TemoignageJean from "../../assets/images/formations/temoignage-jean.jpg";
+import TemoignageMarie from "../../assets/images/formations/temoignage-marie.jpg";
 
 function Commerce() {
   return (

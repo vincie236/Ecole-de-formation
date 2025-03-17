@@ -21,15 +21,15 @@ const NotFound = lazy(() => import("./pages/NotFound"));
 
 function App() {
   return (
-    <Router basename="/site_ecole_de_formation">
-      {" "}
-      {/* Ajoute le basename ici */}
+    <Router>
       {/* Navbar : visible sur toutes les pages */}
       <Navbar />
+
       {/* Bouton de bascule du mode sombre
       <div className="flex justify-end p-4">
         <ThemeToggle />
       </div> */}
+
       <main>
         {/* Suspense pour le chargement paresseux des pages */}
         <Suspense
@@ -91,8 +91,10 @@ function App() {
           </Routes>
         </Suspense>
       </main>
+
       {/* Footer : visible sur toutes les pages */}
       <Footer />
+
       {/* Bouton "Retour en haut" */}
       <ScrollToTopButton />
     </Router>
